@@ -1,0 +1,41 @@
+body {
+    background-color: #1a1a2e;
+    color: #ffffff;
+    font-family: sans-serif;
+    padding: 20px;
+    text-align: center;
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+h1 {
+    color: #e94560;
+    margin-bottom: 10px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.hobby-card {
+    background-color: #16213e;
+    border: 1px solid #e94560;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 15px;
+    text-align: left;
+}
+
+.card-icon {
+    font-size: 2rem;
+    float: left;
+    margin-right: 15px;
+}
+
+h2 {
+    color: #4ecca3;
+    margin-bottom: 5px;
+}
